@@ -25,7 +25,7 @@ One stop destination for showcasing the community you have built.
 ### 1. Fork repo
 
 Fork this repo to your GitHub account  
-![](https://github.com/Ananya-0306/Crack_it/blob/main/Forkme.png)
+![](https://github.com/Ananya-0306/Devlover.github.io/blob/main/Screenshot%202021-06-07%20141303.png)
 
 ### 2. Clone repo
 
